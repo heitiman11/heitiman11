@@ -49,10 +49,10 @@
 [![WhatsApp](https://img.shields.io/badge/(51)996266214-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BGLYSOP7RGVCJ1)
 [![Telegram](https://img.shields.io/badge/Heeitiman-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Heeitiman)
 [![Gmail](https://img.shields.io/badge/heitimandev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitimandev@gmailcom)</br></br></br>
-[![GitHub Gabriel Heitiman](https://img.shields.io/github/followers/heitiman11?label=follow&style=social)](https://github.com/heitiman11)
 
-</br></br>
 ## Espero que tenha gostado! Volte sempre e qualquer dúvida é só me chamar que eu estou a disposição! 😊
+
+[![GitHub Gabriel Heitiman](https://img.shields.io/github/followers/heitiman11?label=follow&style=social)](https://github.com/heitiman11)
 
 <!---
 heitiman11/heitiman11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
